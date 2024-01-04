@@ -51,8 +51,7 @@ QR_Decomposition(a)
 
 ## Output
 ```
-![image](https://github.com/Daniel-christal/QRdecomposition/assets/145742847/c22b1224-8207-4a78-b187-84465de4aa0b)
-
+![image](https://github.com/Daniel-christal/QRdecomposition/assets/145742847/4ef52574-763a-4ae9-a203-f82ff8ff2528)
 ```
 
 ## Result
